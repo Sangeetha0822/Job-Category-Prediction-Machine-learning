@@ -19,3 +19,7 @@ Model Analysis:
 • The classification report offers a more detailed evaluation of the model's performance, including precision, recall, and F1-score metrics for each job category. These metrics provide insights into the model's ability to correctly 
 classify job postings across different categories.
 • The decision tree model's interpretability allows for understanding of the decision-making process behind category predictions, as it creates a tree-like structure where each node represents a decision based on a specific feature.Overall, the Decision Tree classifier serves as a useful tool for predicting job categories based on job attributes, offering transparency and interpretability in the classification process.
+
+**Requirements**
+JupyterNotebook -For Training the Model
+Visual Studio Code -To creating User Interface using Streamlit
